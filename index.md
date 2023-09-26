@@ -36,7 +36,7 @@ published: true
 
 <h3> Humans add CO2 to the Atmosphere, Nature removes about half of it. </h3>
 
-<p> From 2012-2021, humans added 10.7 petagrams of carbon as CO2 (1 Petagram = 1 PgC = 10^15 grams of carbon) to the atmosphere each year, primarily by burning fossil fuels (~9.6 PgC/yr) and also from land use change (~1.2 PgC/yr). Best estimates indicate that the ocean took up 27% of this carbon (~2.9 PgC/yr), and the land biosphere absorbed 29% (~3.1 PgC/yr), while 3% of the estimated emissions remain unaccounted for in the sink reservoirs (Friedlingstein et al. 2022). Thus, over this recent decade, only ~45% of the carbon emitted by humans remained in the atmosphere to cause climate warming. Though uncertainties remain, it is clear that natural processes are significantly damping the rate of carbon accumulation in the atmosphere. Future climate warming depends on both CO2 sources from human emissions and land use, as well as these enormous CO2 sinks in the ocean and the terrestrial biosphere. </p>
+<p> From 2012-2021, humans added 10.8 Petagrams of carbon as CO2 (1 Petagram of carbon = 1 PgC = 10^15 grams of carbon) to the atmosphere each year, primarily by burning fossil fuels (~9.6 PgC/yr) and also from land use change (~1.2 PgC/yr). Best estimates indicate that the ocean took up 27% of this carbon (~2.9 PgC/yr), and the land biosphere absorbed 29% (~3.1 PgC/yr), while 3% of the estimated emissions remain unaccounted for in the sink reservoirs (Friedlingstein et al. 2022). Thus, over this recent decade, only ~45% of the carbon emitted by humans remained in the atmosphere to cause climate warming. Though uncertainties remain, it is clear that natural processes are significantly damping the rate of carbon accumulation in the atmosphere. Future climate warming depends on both CO2 sources from human emissions and land use, as well as these enormous CO2 sinks in the ocean and the terrestrial biosphere. </p>
 
 <a name="CarbonCycle"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.forest }})">
@@ -58,14 +58,14 @@ published: true
 
 <h3> The Global Carbon Cycle </h3>
 
-<p> The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the IPCC AR4 report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC: Petagram of Carbon) and the major fluxes in GtC/yr. The numbers shown are the best estimates for the 1990’s. </p>
+<p> The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the 2022 Global Carbon Budget (Friedlingstein et al. 2022) report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC) and the major fluxes in GtC/yr for 2012-2021 </p>
 
-<p> These flux estimates are updated annually by the <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project </a> (LeQuere et al. 2017) and the state of carbon cycle science is reviewed in each IPCC report (Ciais et. al 2013). </p>
+<p> These flux estimates are updated annually by the <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project </a> (Friedlingstein et al. 2022) and the state of carbon cycle science is also reviewed in each IPCC report (Canadell, Monteiro et. al 2021). </p>
 
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/figure-7-3-l.png" /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2022.png" /> </div> 
 
-<p style="font-size:60%;"> <i> IPCC AR4 (2007) Fig 7.3. The global carbon cycle for the 1990s, showing the main annual fluxes in GtC yr –1 : pre-industrial ‘natural’ fluxes in black and ‘anthropogenic’ fluxes in red (modified from Sarmiento and Gruber, 2006, with changes in pool sizes from Sabine et al., 2004a). The net terrestrial loss of –39 GtC is inferred from cumulative fossil fuel emissions minus atmospheric increase minus ocean storage. The loss of –140 GtC from the ‘vegetation, soil and detritus’ compartment represents the cumulative emissions from land use change (Houghton, 2003), and requires a terrestrial biosphere sink of 101 GtC (in Sabine et al., given only as ranges of –140 to –80 GtC and 61 to 141 GtC, respectively; other uncertainties given in their Table 1). Net anthropogenic exchanges with the atmosphere are from Column 5 ‘AR4’ in Table 7.1. Gross fluxes generally have uncertainties of more than ±20% but fractional amounts have been retained to achieve overall balance when including estimates in fractions of GtC yr–1 for riverine transport, weathering, deep ocean burial, etc. ‘GPP’ is annual gross (terrestrial) primary production. Atmospheric carbon content and all cumulative fluxes since 1750 are as of end 1994. </i> </p>
+<p style="font-size:60%;"> <i> Schematic representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities averaged globally for the decade 2012–2021. The anthropogenic perturbation occurs on top of an active carbon cycle, with ﬂuxes and stocks represented in the background and taken from Canadell et al. (2021). Figure 2 of Friedlingstein et al. 2022. </i> </p>
 
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
