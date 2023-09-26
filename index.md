@@ -30,9 +30,9 @@ published: true
 
 <p> Carbon is a ubiquitous element on Earth. Most of the Earth’s carbon is stored in rocks, but this carbon is essentially inert on the 100’s to 1000’s year timescales of interest to humans. The rest of the carbon is stored as CO2 (carbon dioxide) in the atmosphere (2%), as biomass in land plants and soils (5%), as fossil fuels in a variety of geologic reservoirs (8%) and as a collection of ions in the ocean (85%). These are the “active” reservoirs of carbon of interest in this website. </p>
 
-<h3> How are the Global Carbon Cycle and Climate Change / Global Warming connected? </h3>
+<h3> How are the Global Carbon Cycle and Climate Change connected? </h3>
 
-<p> The Earth is warmed by the Sun. This warmth is returned from Earth to the atmosphere in the form of heat radiation. Many gases in the atmosphere, including CO2, absorb the Earth’s heat energy and radiate in all directions. The energy radiated downward warms the surface and lower atmosphere. Adding more CO2 to the atmosphere means more heat radiation is captured by the atmosphere and radiated back to Earth. The accumulation of CO2 in the atmosphere is the dominant driver of global warming that is now occurring, with increasingly dramatic impacts on human and natural systems. </p>
+<p> The Earth is warmed by the Sun. This warmth is returned from Earth to the atmosphere in the form of heat radiation. Many gases in the atmosphere, including CO2, absorb the Earth’s heat energy and radiate in all directions. The energy radiated downward warms the surface and lower atmosphere. Adding more CO2 to the atmosphere means more heat radiation is captured by the atmosphere and radiated back to Earth. The accumulation of CO2 in the atmosphere is the dominant driver of climate change (also known as global warming) that is now occurring, with increasingly dramatic impacts on human and natural systems. </p>
  
 <p> 
 This website addresses the emissions, cycling, and critical sinks for CO2 in the ocean and terrestrial biosphere at the global scale. Methane (CH4), another very important greenhouse gas, is not addressed here.  </p>
