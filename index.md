@@ -32,7 +32,10 @@ published: true
 
 <h3> How are the Global Carbon Cycle and Climate Change / Global Warming connected? </h3>
 
-<p> The Earth is warmed by the Sun. This warmth is returned from Earth to the atmosphere in the form of heat radiation. Many gases in the atmosphere, including CO2, absorb the Earth’s heat energy and radiate in all directions. The energy radiated downward warms the surface and lower atmosphere. Adding more CO2 to the atmosphere means more heat radiation is captured by the atmosphere and radiated back to Earth. Methane, CH4, is another very important greenhouse gas that is part of the carbon cycle. This website addresses only CO2. </p>
+<p> The Earth is warmed by the Sun. This warmth is returned from Earth to the atmosphere in the form of heat radiation. Many gases in the atmosphere, including CO2, absorb the Earth’s heat energy and radiate in all directions. The energy radiated downward warms the surface and lower atmosphere. Adding more CO2 to the atmosphere means more heat radiation is captured by the atmosphere and radiated back to Earth. The accumulation of CO2 in the atmosphere is the dominant driver of global warming that is now occurring, with increasingly dramatic impacts on human and natural systems. </p>
+ 
+<p> 
+This website addresses the emissions, cycling, and critical sinks for CO2 in the ocean and terrestrial biosphere at the global scale. Methane (CH4), another very important greenhouse gas, is not addressed here.  </p>
 
 <h3> Humans add CO2 to the Atmosphere, Nature removes about half of it. </h3>
 
@@ -103,7 +106,6 @@ As explained below, CO2 is accumulating in the atmosphere because of human activ
 </div><!-- /.page-lead -->
 
 <h3> The Basics </h3> 
-
 
 <p> Burning fossil fuels puts carbon into the atmosphere. Other smaller sources include industrial processes such as cement manufacture and natural gas flaring. Fossil fuels provide most of the energy that supports human transportation, electricity production, heating and cooling of buildings, and industrial activity. Oil used to be the dominant fossil fuel, but as of 2021, coal is dominant (41% to oil’s 32%) and the share from natural gas is steadily growing (22%). </p>
 
