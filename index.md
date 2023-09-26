@@ -91,7 +91,7 @@ published: true
 
 <p>
 
-As explained below, CO2 is accumulating in the atmosphere because of human activities, primarily the burning of fossil fuels and the clearing of forests for cultivation. You will also learn about how natural processes on land and in the ocean are significantly modulating the rate of CO2 growth in the atmosphere.
+As explained below, CO2 is accumulating in the atmosphere because of human activities, primarily the burning of fossil fuels and the clearing of forests  for cultivation. You will also learn about how natural processes on land and in the ocean are significantly modulating the rate of CO2 growth in the atmosphere.
 
 </p>
 
@@ -105,16 +105,15 @@ As explained below, CO2 is accumulating in the atmosphere because of human activ
 <h3> The Basics </h3> 
 
 
-<p> Burning fossil fuels puts carbon into the atmosphere. Other smaller sources include industrial processes such as cement manufacture and natural gas flaring. Fossil fuels provide most of the energy that supports human transportation, electricity production, heating and cooling of buildings, and industrial activity. Oil used to be the dominant fossil fuel, but as of 2016, coal is dominant (40% to oil’s 34%) and the share from natural gas is steadily growing (19% in 2016). </p>
+<p> Burning fossil fuels puts carbon into the atmosphere. Other smaller sources include industrial processes such as cement manufacture and natural gas flaring. Fossil fuels provide most of the energy that supports human transportation, electricity production, heating and cooling of buildings, and industrial activity. Oil used to be the dominant fossil fuel, but as of 2021, coal is dominant (41% to oil’s 32%) and the share from natural gas is steadily growing (22%). </p>
 
 <p>
-In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon (PgC) per year, and in from 2007-2016, 9.4 PgC/yr. Over 2000-2009, emissions increased by 3.3% per year, substantially faster than the growth rate of 1.0% per year in the 1990’s. This dramatic increase was primarily due to growing emissions from developing countries. From 2012-2016, the rate of emissions growth substantially slowed. Nonetheless, emissions over 2007-2016 are largely are consistent with the most intensive fossil fuel emission projections used in the IPCC AR5 report (RCP8.5).   </p>
+In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon per year (PgC/yr), while in 2012-2021, 9.6 PgC/yr. Over 2000-2009, emissions increased by 2.4% per year, substantially faster than the growth rate of 1.0% per year in the 1990’s. This dramatic increase was primarily due to growing emissions from developing countries. From 2010-2019, the rate of emissions growth slowed a bit, to 1.6% per year. But still emissions continue to grow from one year to the next. Meeting international goals of limiting climate warming to less that 2 degrees C will require reversing this trend of growth. To safeguard the climate, we must begin to reduce annual emissions year after year; in other words, we need negative emission growth rates.  </p>
 
 <p>
-Evidence indicates that the rapid rise in emissions from developing countries, including China, are due to growth in international trade and a shift of developed countries toward service economies. The production of exports in developing countries is also an important driver of their increased emissions. </p>
+Since 2000, emissions have grown rapidly in developing countries, particularly China. This has been due in some part to increasing energy use and consumption domestically, but also has a significant component due to the production of goods that have been exported to developed countries for consumption. Production / consumption flows are estimated annually by the <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project. 
+</p>
 
-<p> 
-You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) on the <a href="http://unfccc.int/ghg_data/items/3800.php"> UNFCCC site</a>.</p>
 
 <h3> The Future of Fossil Fuels </h3>
 
