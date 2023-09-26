@@ -14,7 +14,7 @@ Columbia University
 Department of Earth and Environmental Sciences 
 <br>
 and
-Lamont Doherty Earth Observatory 
+Lamont-Doherty Earth Observatory 
 <br>
 New York, USA 
 
