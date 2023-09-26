@@ -86,7 +86,7 @@ published: true
 <div style="text-align:center"> <img src = "{{site.baseurl}}/images/co2_data_mlo_5sept2023_NOAAESRL.pdf" /> </div> 
 
 <p>
-	These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from <a href="https://www.esrl.noaa.gov/gmd/ccgg/trends/"> NOAA </a>. NOAA has also produced this <a href="https://www.youtube.com/watch?v=gH6fQh9eAQE"> great visualization </a> of current observations across latitudes and puts them in context with historical CO2 records that stretch back to the ice ages. 
+	These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from <a href="https://www.esrl.noaa.gov/gmd/ccgg/trends/"> NOAA </a>. NOAA has also produced this <a href="https://www.youtube.com/watch?v=I7jKxO4nKZc"> great visualization </a> of current observations across latitudes and puts them in context with historical CO2 records that stretch back to the ice ages. 
 </p>
 
 <p>
