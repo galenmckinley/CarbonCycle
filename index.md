@@ -79,7 +79,7 @@ published: true
 </div><!-- /.page-lead -->
 
 <p>
-	In 1958, Charles D. Keeling began taking measurements of atmospheric CO2 at Mauna Loa, Hawaii. One can see both the seasonal cycle, dominated by the annual cycle of photosynthesis and respiration in the terrestrial biosphere of the Northern Hemisphere, as well as the clear upward trend. Learn more about Keeling's data from this <a href = "https://www.youtube.com/watch?v=0Z8g-smE2sk"> short video </a>
+	In 1958, Charles D. Keeling began taking measurements of atmospheric CO2 at Mauna Loa, Hawaii. One can see both the seasonal cycle, dominated by the annual cycle of photosynthesis and respiration in the terrestrial biosphere of the Northern Hemisphere, as well as the clear upward trend. Learn more about Keeling's data from this <a href = "https://www.youtube.com/watch?v=0Z8g-smE2sk"> short video </a> from the <a href = "https://www.amnh.org> American Museum of Natural History </a>
 
 </p>
  
