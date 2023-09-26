@@ -58,12 +58,12 @@ published: true
 
 <h3> The Global Carbon Cycle </h3>
 
-<p> The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the 2022 Global Carbon Budget (Friedlingstein et al. 2022) report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC) and the major fluxes in GtC/yr for 2012-2021 </p>
+<p> The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the 2022 Global Carbon Budget (Friedlingstein et al. 2022) report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC) and the major fluxes in GtC/yr for 2012-2021. </p>
 
 <p> These flux estimates are updated annually by the <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project </a> (Friedlingstein et al. 2022) and the state of carbon cycle science is also reviewed in each IPCC report (Canadell, Monteiro et. al 2021). </p>
 
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2022.png" /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2022.png" style="width:750px;height:452px;" /> </div> 
 
 <p style="font-size:60%;"> <i> Schematic representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities averaged globally for the decade 2012–2021. The anthropogenic perturbation occurs on top of an active carbon cycle, with ﬂuxes and stocks represented in the background and taken from Canadell et al. (2021). Figure 2 of Friedlingstein et al. 2022. </i> </p>
 
