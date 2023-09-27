@@ -186,14 +186,15 @@ To learn more about ocean acidification, check out resources from <a href="https
 
 <h3> The Basics </h3>
 
-<p> New agricultural land is typically created by cutting down forests. When trees are cut down and burned or left to decompose, carbon goes into the atmosphere. In the present day, deforestation and the resulting net carbon source to the atmosphere is primarily occurring in the tropics. However, in the last 200 years, forest clearing for agriculture in the middle latitudes of the Northern Hemisphere was also a substantial source of carbon to the atmosphere. Since the mid-1900’s, much of the less-productive agricultural land in the US and Europe has been allowed to regrow as forests – making for uptake of carbon from the atmosphere through carbon accumulation in woody biomass and soils. </p>
+<p> New agricultural land is typically created by cutting down forests. When trees are cut down and burned or left to decompose, carbon goes into the atmosphere. In the present day, deforestation and the resulting net carbon source to the atmosphere is primarily occurring in the tropics. However, in the last 200 years, forest clearing for agriculture in the middle latitudes of the Northern Hemisphere was also a substantial source of carbon to the atmosphere. Since the mid-1900’s, much of the less-productive agricultural land in the US and Europe has been allowed to regrow as forests – making for uptake of carbon from the atmosphere through carbon accumulation in woody biomass and soils. Uncertainty in estimates of the land use source are large in part because estimates of deforestation and other land use changes are, themselves, quite uncertain. In addition, the amount of carbon stored in the forests is not well-quantified. (Crisp et al. 2022)</p>
 
-<p>
-Uncertainty in estimates of the land use source are large in part because estimates of deforestation are, themselves, uncertain, and also in part because the amount of carbon stored in the forests is not well-quantified. </p>
+<p> Agriculture, Forestry and other Land Use (AFOLU) led to 13% of CO2 emissions over 2007-2016 (IPCC 2019), and 11% for 2012-2021 (Friedlingstein et al. 2022). AFOLU is also a major source for non-CO2 greenhouse gases (CH4, N20). 
+</p>
 
 <h3> The Future of Land Use </h3>
 
-<p> A variety of models were used to project future land use for the emissions scenarios use for the IPCC AR4 report (<a href="http://www.ipcc.ch/ipccreports/sres/emission/index.php?idp=6-6"> IPCC Special Report on Emission Scenarios, Chapter 6, Figure 6-6b</a>). These models suggest that deforestation will peak by about 2025 and then gradually decline with time. This trend is primarily driven by reduced rates of population growth and improving agricultural productivity. Eventually, several scenarios predict that land use, currently a substantial source of CO2 to the atmosphere, will become a sink of CO2 from the atmosphere as forests grow back. </p>
+<p> The future of Land Use depends on many factors. Deforestation is critically important, but also human decisions about agriculture, soils, wildlands, biodiversity, urbanization, and carbon capture and storage activities. For example, if we collectively decide to grow large quantities of biofuels to replace fossil fuels, this will have major land use implications. In a <a https://www.ipcc.ch/srccl/"> special IPCC report</a>, these and many other factors were considered so as to map out  potential futures for land use on Earth. 
+</p>
 
 <h3> What is the difference between Land Use and Land Uptake? </h3>
 
