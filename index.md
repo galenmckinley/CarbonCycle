@@ -198,7 +198,7 @@ To learn more about ocean acidification, check out resources from <a href="https
 
 <h3> What is the difference between Land Use and Land Uptake? </h3>
 
-<p> These terms are separated to clarify the direct impact of humans in forest clearing and subsequent regrowth (Land Use), and the natural system’s response to anthropogenic addition of carbon to the atmosphere and climate warming (Land Uptake). In many studies, however, it is impractical to precisely distinguish between these two terms and so often some component of the Land Use term (such as afforestation in the mid-latitudes) is effectively subsumed into the Land Uptake term. </p>
+<p> These terms are separated to clarify the direct impact of humans in clearing of forests and other lands, and subsequent regrowth (Land Use), from the natural system’s response to anthropogenic addition of carbon to the atmosphere and climate warming (Land Uptake). In many studies, however, it is impractical to distinguish between these two terms. Often some of what should be formally classified as Land Use  (such as afforestation in the mid-latitudes) gets included in Land Uptake. </p>
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
 
