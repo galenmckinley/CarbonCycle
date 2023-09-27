@@ -193,7 +193,7 @@ To learn more about ocean acidification, check out resources from <a href="https
 
 <h3> The Future of Land Use </h3>
 
-<p> The future of Land Use depends on many factors. Deforestation is critically important, but also human decisions about agriculture, soils, wildlands, biodiversity, urbanization, and carbon capture and storage activities. For example, if we collectively decide to grow large quantities of biofuels to replace fossil fuels, this will have major land use implications. In a <a> "https://www.ipcc.ch/srccl/"> 2019 special IPCC report</a>, these and many other factors were considered so as to map out  potential futures for land use on Earth. 
+<p> The future of Land Use depends on many factors. Deforestation is critically important, but also human decisions about agriculture, soils, wildlands, biodiversity, urbanization, and carbon capture and storage activities. For example, if we collectively decide to grow large quantities of biofuels to replace fossil fuels, this will have major land use implications. In a <a> "https://www.ipcc.ch/srccl/"> 2019 special IPCC report</a>, these and many other factors were considered, and potential futures for land use on Earth under were mapped out. 
 </p>
 
 <h3> What is the difference between Land Use and Land Uptake? </h3>
