@@ -68,7 +68,7 @@ This website addresses the emissions, cycling, and critical sinks for CO2 in the
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2022.png" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:60%;"> <i> Schematic representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities averaged globally for the decade 2012–2021. The anthropogenic perturbation occurs on top of an active carbon cycle, with ﬂuxes and stocks represented in the background and taken from Canadell et al. (2021). Figure 2 of Friedlingstein et al. 2022. </i> </p>
+<p style="font-size:75%;"> <i> Schematic representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities averaged globally for the decade 2012–2021. The anthropogenic perturbation occurs on top of an active carbon cycle, with ﬂuxes and stocks represented in the background and taken from Canadell et al. (2021). Figure 2 of Friedlingstein et al. 2022. </i> </p>
 
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
@@ -135,22 +135,25 @@ Reducing emissions of CO2 and other greenhouse gases is the focus of the activit
 
 <h3> The Basics </h3>
 
-<p> CO2 dissolves in seawater, and then reacts with the water so that it dissociates into several ions. This disassociation means that the oceans can hold a lot of carbon – 85% of the active reservoir on Earth. Cold seawater can hold more CO2 than warm water, so waters that are cooling (i.e. poleward-moving western boundary currents) tend to take up carbon, and waters that are upwelling and warming (i.e. coastal zones and the tropics) tend to emit carbon. This contributes to the pattern of the global sea-to-air CO2 flux, as shown in this global map. </p>
+<p> CO2 dissolves in seawater, and then reacts with the water so that it dissociates into several ions. This disassociation means that the oceans can hold a lot of carbon – 85% of the active reservoir on Earth. Cold seawater can hold more CO2 than warm water, so waters that are cooling (i.e. poleward-moving currents such as the Gulf Stream) tend to take up carbon, and waters that are upwelling and warming (i.e. coastal zones and the tropics) tend to emit carbon. This contributes to the pattern of the global sea-to-air CO2 flux, as shown in this global map. </p>
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/CO2flux_ocean_20102019_M2023_fig2a.jpg" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:75%; text-align:center"> <i> Annual mean air-sea CO2 flux, based on observations as summarized in McKinley et al. 2023. Positive is from ocean to atmosphere, negative from atmosphere to ocean. </i> </p>
+<p style="font-size:75%; text-align:center"> <i> Annual mean air-sea CO2 flux, 2010-2019, based on observations (McKinley et al. 2023). Positive is from ocean to atmosphere, negative from atmosphere to ocean. </i> </p>
 
 <p>
-The ocean is also teeming with plant life that photosynthesizes in the presence of nutrients and sunlight and makes organic matter out of the seawater CO2. Though much of the CO2 removed from seawater biologically is quickly recycled back to CO2 by the surface ocean food web, a small portion (less than 1%) of the waste matter sinks down into the deep and enriches the abyss with carbon (left panel below). This process moves carbon from the surface ocean to the deep ocean and stores carbon away from the atmospheric reservoir. High latitudes are highly productive, and this is another reason that high latitude oceans absorb large quantities of CO2.  </p>
+The ocean is also teeming with plant life that photosynthesizes in the presence of nutrients and sunlight and makes organic matter out of the carbon in seawater. Though much of the carbon removed from seawater biologically is quickly recycled back to carbon by the surface ocean food web, a small portion (less than 1%) of the waste matter sinks down to depth and enriches the abyss with carbon (left panel below). This process moves carbon from the surface ocean to the deep ocean and stores carbon away from the atmospheric reservoir. Regionally, the high latitude oceans are highly productive, and this is another reason that high latitude oceans absorb large quantities of CO2 (see map above).  </p>
 
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/CRE02558_McKinleyReiner_OCB2020.png" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:75%; text-align:center"> <i> The ocean carbon cycle in 2 dimensions. On the left is the natural carbon cycle that includes biological production, ocean circulation and air-sea exchange. On the left is the anthropogenic carbon cycle that includes invasion of carbon into the surface ocean due to the growing atmospheric pCO2 (inset on top right), and the ocean circulation that mixes anthropogenic carbon to depth. The total carbon cycle,  is the sum of the natural and anthropogenic cycles. In the center of this figure are plotted observations of the global-mean profiles of natural, anthropogenic and total carbon in the ocean. The air-sea flux presented in the global map above is for the total carbon cycle. Figure by Galen McKinley and Natalie Renier, with support from the OCB program. </i> </p>
+<p style="font-size:75%; text-align:center"> <i> The ocean carbon cycle, surface to depth. On the left is the natural carbon cycle that includes biological production, ocean circulation and air-sea exchange. On the right is the anthropogenic carbon cycle that includes invasion of carbon into the surface ocean due to the growing atmospheric pCO2 (inset on top right), and the ocean circulation that mixes anthropogenic carbon to depth. The total carbon cycle,  is the sum of the natural and anthropogenic cycles. At center are the observed global-mean profiles of natural, anthropogenic and total carbon in the ocean. The air-sea flux presented in the global map above is for the total carbon cycle. Figure by Galen McKinley and Natalie Renier, with support from the OCB program. </i> </p>
 
 <p>
-As humans increase the atmospheric CO2 concentration, more carbon is driven into the oceans (right panel of figure above). If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm higher than at present (175 PgC). Of all fossil fuel emissions to the atmosphere (465 PgC), the ocean has cumulatively mitigated 37% (175 PgC/yr) and the remainder of the carbon has remained in the atmosphere (Friedlingstein et al. 2022). This carbon is almost all in the surface 1km of ocean and has not penetrated any deeper because the ocean takes about 1000 years to mix completely. For more illustrations of the ocean carbon sink over time, check out these animations from the <a href="http://darchive.mblwhoilibrary.org/handle/1912/7670.1"> Ocean Carbon and Biogeochemistry Program. </a> </p>
+As humans increase the atmospheric CO2 concentration, more carbon is driven into the oceans (right panel of figure above). This carbon is almost all in the surface 1km of ocean and has not penetrated any deeper because the ocean takes about 1000 years to mix completely. </p>
+
+<p>
+If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm higher than at present (175 PgC). Of all fossil fuel emissions to the atmosphere (465 PgC), the ocean has cumulatively mitigated 37% (175 PgC/yr) and the remainder of the carbon has remained in the atmosphere (Friedlingstein et al. 2022). Additional illustrations of the changing balance of carbon sources and sink are available from the <a href="http://darchive.mblwhoilibrary.org/handle/1912/7670.1"> Ocean Carbon and Biogeochemistry Program. </a> </p>
 
 <h3> The Future of Ocean Carbon Uptake </h3>
 
