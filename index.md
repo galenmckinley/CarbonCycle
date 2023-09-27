@@ -157,9 +157,7 @@ If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm 
 
 <h3> The Future of Ocean Carbon Uptake </h3>
 
-<p> The ocean will eventually take up about 85% of anthropogenic CO2, but because the ocean takes ~1000 years to mix, this process will take many hundreds to thousands of years. 
-
-</p>
+<p> The ocean will eventually take up about 85% of anthropogenic CO2, but because the ocean takes ~1000 years to mix, this process will take many hundreds to thousands of years. </p>
 
 <p> In this century, the ocean carbon sink will grow in rough proportion to carbon emissions because atmospheric CO2 is the primary driver of the sink (McKinley et al. 2020). In the coming decades, as emissions go up, the ocean carbon sink will increase in magnitude, and as emissions go down, the ocean sink will become smaller (McKinley et al. 2023). Particularly if emission are not cut significantly, the chemical capacity for the ocean to absorb carbon will increasingly be depleted, and this will also slow the sink (Ridge and McKinley 2021). Warming and the melting of ice caps may also slow down the large-scale overturning circulation of the ocean, again reducing the ocean sink. Climate models suggest significant regional changes in biological removal of carbon to the deep ocean, but a small net effect on globally-integrated ocean carbon uptake; however, predictions about biological process are far more uncertain than those for chemical or physical change (Crisp et al. 2022). </p>
 
@@ -167,14 +165,14 @@ If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm 
 One way scientists learn about how the ocean carbon sink can change is from observations of the variability in space and time in recent decades (Gruber et al. 2023). For example, observational studies of the Southern Ocean have found that the ocean carbon sink weakened in the decade of the 1990s, and then strengthened again; however, the changes have yet to be mechanistically explained. It is possible that observations are simply too sparse to robustly constrain these changes (Bakker et al. 2016, Gloege et al. 2021, Heimdal et al. 2023). </p>
 
 <p>
-In the US, the <a href="https://www.us-ocb.org/">Ocean Carbon and Biogeochemistry</a> (OCB) program coordinates research and education efforts on ocean carbon uptake. See a short film <a href="https://www.us-ocb.org/new-ocb-short-film/">here</a> that summarizes their carbon research portfolio. International efforts look to the International Ocean Carbon Coordinating Project <a href="http://www.ioccp.org/"> (IOCCP) </a> </p>
+In the US, the <a href="https://www.us-ocb.org/">Ocean Carbon and Biogeochemistry</a> (OCB) program coordinates research and education efforts on ocean carbon uptake. See a short film <a href="https://www.us-ocb.org/new-ocb-short-film/">here</a> that summarizes their carbon research portfolio. International efforts look to the <a href="http://www.ioccp.org/"> International Ocean Carbon Coordinating Project </a> (IOCCP) </p>
 
 <h3> The “Other CO2 Problem” = Ocean Acidification </h3>
 
 <p> There are additional consequences to the ocean’s uptake of carbon. CO2 dissolved in seawater and forms carbonic acid, and so adding more CO2 to the water makes the ocean more acidic. From preindustrial times to present the pH of the ocean has declined 0.1 pH units, from 8.21 to 8.10, and it is likely to decline by another 0.3-0.4 pH units by the 2100, assuming atmospheric pCO2 is about 800 ppmv by that time. Acidification will damage coral reefs and likely place significant stress on species important to ocean food chain, particularly in the Southern Ocean. Scientists are working hard to better-understand the impacts on organisms and the integrated effects on ocean ecosystems. </p>
 
 <p>
-To learn more about ocean acidification, check out resources from <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification"> Natural Resources Defense Council </a>, <a href="http://oceanacidification.noaa.gov/Home.aspx"> NOAA </a> and the <a href="http://www.whoi.edu/main/topic/ocean-acidification"> Woods Hole Oceanographic Institution</a>.
+To learn more about ocean acidification, check out resources from <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification"> Natural Resources Defense Council </a>, <a href="https://oceanacidification.noaa.gov/"> NOAA </a> and the <a href="http://www.whoi.edu/main/topic/ocean-acidification"> Woods Hole Oceanographic Institution</a>.
 </p>
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
