@@ -225,10 +225,7 @@ Quantifying the uptake of carbon occurring in land biosphere is challenging. Het
 
 <h3> The Future of Land Uptake </h3>
 
-<p> In the <a href="{{ site.url }}/applet/"> applet</a>, you can see that the IPCC range for future Land Uptake is large. This is because we have a poor handle on the processes responsible for Land Uptake at present, and so cannot make precise predictions for the future. </p>
-
-<p>
-The “CO2 fertilization effect” of enhanced growth with more CO2 has been shown by a range of studies to be a temporary effect, saturating in natural systems after a few years. Much of the range of IPCC predictions, as shown in the <a href="{{ site.url }}/applet/"> applet</a>, is due to uncertainty about this process. There is less known about nitrogen fertilization and its possible future role. </p>
+<p> In the <a href="{{ site.url }}/applet/"> applet</a>, you can see that the IPCC range for future Land Uptake is large. Imprecise predictions are directly related to our uncertainty with respect to modern-day processes. The “CO2 fertilization effect” of enhanced growth with more CO2 has been shown by some studies to be a temporary effect, saturating in natural systems after a few years. Much of the range of IPCC predictions is due to uncertainty about the “CO2 fertilization effect”. There is less known about nitrogen fertilization and its possible future role. </p>
 
 <p>
 It is possible that the land biosphere could become a natural source of carbon to the atmosphere, as seen in the <a href="{{ site.url }}/applet/"> applet</a>. Persistent drought will contribute to increased forest fires that release carbon. Carbon release is already happening as <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-wildfires">wildfire extent and damage (US Forest Service via US EPA)</a> increases in the western US. In addition, much organic carbon is stored in permafrost and soils. Warming will lead to thawing and increased microbial activity that will degrade this material and release CO2 to the atmosphere. How much carbon will be released? How much warming must happen before large carbon fluxes occur? These are pressing research questions. </p>
