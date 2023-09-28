@@ -27,7 +27,7 @@ More on Global Climate Change
 
 - [NASA Eyes on the Earth](http://climate.nasa.gov/causes/) on the greenhouse effect
 - [NASA global warming FAQ](https://climate.nasa.gov/faq/)
-- [NOAA on studying past of Earth's climate ](http://www.ncdc.noaa.gov/paleo/globalwarming/home.html)
+- [NOAA on studying Earth's past climate](http://www.ncdc.noaa.gov/paleo/globalwarming/home.html)
 - [Models, videos, online course](http://forecast.uchicago.edu/) from David Archer at U. Chicago
 
 
