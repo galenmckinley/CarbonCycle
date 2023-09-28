@@ -6,7 +6,7 @@ published: true
 ---
 
 
-#### Carbon Cycle 
+#### Carbon Cycle Overview and Fossil Fuels
 
 Canadell, J. G., Monteiro, P. M. S., Costa, M. H., Cunha, L. C. da, Cox, P. M., Eliseev, A. V., et al. (2021). Global Carbon and other Biogeochemical Cycles and Feedbacks (Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change No. 10.1017/9781009157896.007). Cambridge University Press. [IPCC AR6 Working Group 1, Chapter 5](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/)
 
@@ -14,14 +14,13 @@ Crisp, D., Dolman, H., Tanhua, T., McKinley, G. A., Hauck, J., Bastos, A., et al
 
 Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., Hauck, J., et al. (2022). Global Carbon Budget 2022. Earth System Science Data, 14(11), 4811–4900. [https://doi.org/10.5194/essd-14-4811-2022](https://doi.org/10.5194/essd-14-4811-2022)
 
-
-#### Fossil Fuels
-
 [Global Carbon Budget Papers, Graphics and Data](http://www.globalcarbonproject.org/carbonbudget/) from the Global Carbon Project
 
-#### Ocean Uptake 
+#### Atmosphere
 
-Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013). 
+[Global atmospheric CO2 data ](https://gml.noaa.gov/ccgg/trends/) from NOAA GML
+
+#### Ocean Uptake 
 
 DeVries, T., Holzer, M. & Primeau, F. Recent increase in oceanic carbon uptake driven by weaker upper-ocean overturning. Nature 542, 215–218 (2017).
 
