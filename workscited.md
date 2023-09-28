@@ -17,9 +17,7 @@ Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., H
 
 #### Fossil Fuels
 
-Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., [https://doi.org/10.5194/essd-2017-123](https://www.earth-syst-sci-data-discuss.net/essd-2017-123/), in review, 2017. 
-
-[Global Carbon Project](http://www.globalcarbonproject.org/carbonbudget/)
+[Global Carbon Project Papers, Graphics and Data ](http://www.globalcarbonproject.org/carbonbudget/)
 
 #### Ocean Uptake 
 
