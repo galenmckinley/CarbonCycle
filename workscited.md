@@ -6,7 +6,7 @@ published: true
 ---
 
 
-#### Carbon Cycle Overview and Fossil Fuels
+#### Carbon Cycle and Fossil Fuels
 
 Canadell, J. G., Monteiro, P. M. S., Costa, M. H., Cunha, L. C. da, Cox, P. M., Eliseev, A. V., et al. (2021). Global Carbon and other Biogeochemical Cycles and Feedbacks (Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change No. 10.1017/9781009157896.007). Cambridge University Press. [IPCC AR6 Working Group 1, Chapter 5](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/)
 
@@ -22,27 +22,9 @@ Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., H
 
 #### Ocean Uptake 
 
-DeVries, T., Holzer, M. & Primeau, F. Recent increase in oceanic carbon uptake driven by weaker upper-ocean overturning. Nature 542, 215–218 (2017).
-
-Khatiwala, S., F. Primeau and T. Hall (2009) Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature 462, 346-349 . [doi:10.1038/nature08526](http://www.nature.com/nature/journal/v462/n7271/full/nature08526.html). 
-
-Khatiwala, S. et al. Global ocean storage of anthropogenic carbon. Biogeosciences 10, 2169–2191 (2013).
-
-Landschützer, P. et al. The reinvigoration of the Southern Ocean carbon sink. Science 349, 1221–1224 (2015).
-
-Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., [https://doi.org/10.5194/essd-2017-123](https://www.earth-syst-sci-data-discuss.net/essd-2017-123/), in review, 2017. 
-
-McKinley, G. A., Fay, A. R., Lovenduski, N. S. & Pilcher, D. J. Natural Variability and Anthropogenic Trends in the Ocean Carbon Sink. Annu. Rev. Marine. Sci. 9, 125–150 (2017).
-
-Peters, G. P. et al. Towards real-time verification of CO2 emissions. Nature Climate Change 7, 848–850 (2017).
-
-Ritter, R. et al. Observation-Based Trends of the Southern Ocean Carbon Sink. Geophys Res Lett 44, 12,339–12,348 (2017).
+Bakker, D. C. E., Pfeil, B., Landa, C. S., Metzl, N., O’Brien, K. M., Olsen, A., et al. (2016). A multi-decade record of high-quality fCO2 data in verison 3 of the Surface Ocean CO2 Atlas (SOCAT). Earth System Science Data, 8(2), 383–413. [https://doi.org/10.5194/essd-8-383-2016](https://doi.org/10.5194/essd-8-383-2016). See also the [SOCAT website](https://socat.info)
 
 
-Sabine et al. (2004) The ocean sink for anthropogenic CO2. Vol. 305. no. 5682, pp. 367 – 371 [doi: 10.1126/science.1097403](http://www.sciencemag.org/cgi/content/abstract/305/5682/367). 
-
-
-[Takahashi et al. (2009) Climatological mean and decadal changes in surface ocean pCO2, and net sea-air CO2 flux over the global oceans. DSR II, 56, 554-577.](http://www.ldeo.columbia.edu/res/pi/CO2/carbondioxide/pages/air_sea_flux_2000.html) 
 
 #### Land Use
 
