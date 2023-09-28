@@ -17,7 +17,7 @@ Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., H
 
 #### Fossil Fuels
 
-[Global Carbon Project Papers, Graphics and Data ](http://www.globalcarbonproject.org/carbonbudget/)
+[Global Carbon Budget Papers, Graphics and Data](http://www.globalcarbonproject.org/carbonbudget/) from the Global Carbon Project
 
 #### Ocean Uptake 
 
