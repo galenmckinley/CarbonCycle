@@ -234,7 +234,7 @@ The “CO2 fertilization effect” of enhanced growth with more CO2 has been sho
 It is possible that the land could become a natural source of carbon to the atmosphere, as seen in the <a href="{{ site.url }}/applet/"> applet</a>. Persistent drought will contribute to increased forest fires that cause losses of carbon from vegetation. In the Western US, the long-term increasing trend in <a href="https://www.epa.gov/climate-indicators/climate-change-indicators-wildfires">wildfire extent and damage (US Forest Service via US EPA)</a> is consistent with this mechanism. There is also large quantities of organic carbon stored in permafrost at high latitudes, and in soils everywhere. Warming will lead to thawing and increased microbial activity that will degrade this material and release carbon to the atmosphere. How much carbon will be released? How much warming is required before large fluxes occur? These are pressing research questions. </p>
 
 <p>
-It is very important that we better understand the mechanisms of land uptake. As understanding improves, predictions will be of greater assistance to carbon management decision-making. Improving mechanistic understanding is a central focus of many research projects. In the US, the <a href="https://www.nacarbon.org/nacp/"> North American Carbon Program </a>coordinates terrestrial carbon research. </p>
+It is very important that we better understand the mechanisms of land uptake, and thus many research projects are underway. In the US, the <a href="https://www.nacarbon.org/nacp/"> North American Carbon Program </a>coordinates land carbon research activities. </p>
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
 
