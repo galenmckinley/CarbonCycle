@@ -18,11 +18,11 @@ Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., H
 
 #### Atmosphere
 
-[Global atmospheric CO2 data ](https://gml.noaa.gov/ccgg/trends/) from NOAA GML
+[Global atmospheric CO2 data](https://gml.noaa.gov/ccgg/trends/) from NOAA GML
 
 #### Ocean Uptake 
 
-Bakker, D. C. E., Pfeil, B., Landa, C. S., Metzl, N., O’Brien, K. M., Olsen, A., et al. (2016). A multi-decade record of high-quality fCO2 data in verison 3 of the Surface Ocean CO2 Atlas (SOCAT). Earth System Science Data, 8(2), 383–413. [https://doi.org/10.5194/essd-8-383-2016](https://doi.org/10.5194/essd-8-383-2016). See also the [SOCAT website](https://socat.info)
+Bakker, D. C. E., Pfeil, B., Landa, C. S., Metzl, N., O’Brien, K. M., Olsen, A., et al. (2016). A multi-decade record of high-quality fCO2 data in verison 3 of the Surface Ocean CO2 Atlas (SOCAT). Earth System Science Data, 8(2), 383–413. [https://doi.org/10.5194/essd-8-383-2016](https://doi.org/10.5194/essd-8-383-2016). See also the [SOCAT website](https://socat.info).
 
 
 
