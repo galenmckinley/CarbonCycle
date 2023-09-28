@@ -8,12 +8,12 @@ published: true
 
 #### Carbon Cycle 
 
-Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013).  
+Canadell, J. G., Monteiro, P. M. S., Costa, M. H., Cunha, L. C. da, Cox, P. M., Eliseev, A. V., et al. (2021). Global Carbon and other Biogeochemical Cycles and Feedbacks (Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change No. 10.1017/9781009157896.007). Cambridge University Press. [IPCC AR6 Working Group 1, Chapter 5](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/)
 
-Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017.
-[https://www.earth-syst-sci-data-discuss.net/essd-2017-123/](https://www.earth-syst-sci-data-discuss.net/essd-2017-123/)
+Crisp, D., Dolman, H., Tanhua, T., McKinley, G. A., Hauck, J., Bastos, A., et al. (2022). How Well Do We Understand the Land-Ocean-Atmosphere Carbon Cycle? Reviews of Geophysics, 60(2). [https://doi.org/10.1029/2021rg000736](https://doi.org/10.1029/2021rg000736)
 
-Sarmiento, J.L. and N. Gruber (2002) Sinks for anthropogenic carbon. Physics Today 55, 30-36. [http://physicstoday.scitation.org/doi/10.1063/1.1510279](http://physicstoday.scitation.org/doi/10.1063/1.1510279)
+Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., Hauck, J., et al. (2022). Global Carbon Budget 2022. Earth System Science Data, 14(11), 4811–4900. [https://doi.org/10.5194/essd-14-4811-2022](https://doi.org/10.5194/essd-14-4811-2022)
+
 
 #### Fossil Fuels
 
