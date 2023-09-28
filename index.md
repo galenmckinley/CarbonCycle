@@ -189,12 +189,12 @@ To learn more about ocean acidification, check out resources from <a href="https
 
 <p> New agricultural land is typically created by cutting down forests. When trees are cut down and burned or left to decompose, carbon goes into the atmosphere. In the present day, deforestation and the resulting net carbon source to the atmosphere is primarily occurring in the tropics. However, in the last 200 years, forest clearing for agriculture in the middle latitudes of the Northern Hemisphere was also a substantial source of carbon to the atmosphere. Since the mid-1900’s, much of the less-productive agricultural land in the US and Europe has been allowed to regrow as forests – making for uptake of carbon from the atmosphere through carbon accumulation in woody biomass and soils. Uncertainty in estimates of the land use source are large in part because estimates of deforestation and other land use changes are, themselves, quite uncertain. In addition, the amount of carbon stored in the forests is not well-quantified. (Crisp et al. 2022)</p>
 
-<p> Agriculture, Forestry and other Land Use (AFOLU) led to 13% of CO2 emissions over 2007-2016 (IPCC 2019), and 11% for 2012-2021 (Friedlingstein et al. 2022). AFOLU is also a major source for non-CO2 greenhouse gases (CH4, N20). 
+<p> Agriculture, Forestry and other Land Use (AFOLU) led to 13% of CO2 emissions over 2007-2016 (IPCC 2022), and 11% for 2012-2021 (Friedlingstein et al. 2022). AFOLU is also a major source for non-CO2 greenhouse gases (CH4, N20). 
 </p>
 
 <h3> The Future of Land Use </h3>
 
-<p> The future of land use on Earth depends on many factors. Human decisions at scales from local to global will change Earth's forests, agriculture, soils, wildlands and urban footprints. If people decide to grow large quantities of biofuels to replace fossil fuels, this will have major land use implications. In a <a href="https://www.ipcc.ch/srccl/"> 2019 special IPCC report</a>, these and other factors were considered to develop a range of future scenarios.
+<p> The future of land use on Earth depends on many factors. Human decisions at scales from local to global will change Earth's forests, agriculture, soils, wildlands and urban footprints. If people decide to grow large quantities of biofuels to replace fossil fuels, this will have major land use implications. In a <a href="https://www.ipcc.ch/srccl/"> 2022 special IPCC report</a>, these and other factors were considered to develop a range of future scenarios.
 </p>
 
 <h3> What is the difference between Land Use and Land Uptake? </h3>
