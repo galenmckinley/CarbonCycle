@@ -13,7 +13,6 @@ Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contributio
 Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017.
 [https://www.earth-syst-sci-data-discuss.net/essd-2017-123/](https://www.earth-syst-sci-data-discuss.net/essd-2017-123/)
 
-
 Sarmiento, J.L. and N. Gruber (2002) Sinks for anthropogenic carbon. Physics Today 55, 30-36. [http://physicstoday.scitation.org/doi/10.1063/1.1510279](http://physicstoday.scitation.org/doi/10.1063/1.1510279)
 
 #### Fossil Fuels
@@ -28,13 +27,11 @@ Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contributio
 
 DeVries, T., Holzer, M. & Primeau, F. Recent increase in oceanic carbon uptake driven by weaker upper-ocean overturning. Nature 542, 215–218 (2017).
 
-
 Khatiwala, S., F. Primeau and T. Hall (2009) Reconstruction of the history of anthropogenic CO2 concentrations in the ocean. Nature 462, 346-349 . [doi:10.1038/nature08526](http://www.nature.com/nature/journal/v462/n7271/full/nature08526.html). 
 
 Khatiwala, S. et al. Global ocean storage of anthropogenic carbon. Biogeosciences 10, 2169–2191 (2013).
 
 Landschützer, P. et al. The reinvigoration of the Southern Ocean carbon sink. Science 349, 1221–1224 (2015).
-
 
 Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., [https://doi.org/10.5194/essd-2017-123](https://www.earth-syst-sci-data-discuss.net/essd-2017-123/), in review, 2017. 
 
