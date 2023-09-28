@@ -211,10 +211,10 @@ To learn more about ocean acidification, check out resources from <a href="https
 
 <h3> The Basics </h3>
 
-<p> The land biosphere takes up and releases enormous amounts of carbon each year as it cycles through periods of growth and dormancy. Growth leads to the accumulation of carbon in leaves and stalks, woody parts, roots, and in soils. Decay of dead matter, primarily on the ground and in soils, returns carbon to the atmosphere. This cycling can be seen in the atmospheric CO2 observations on the Atmosphere tab, and in the animation at the bottom of this page. </p>
+<p> The land biosphere takes up and releases enormous amounts of carbon each year as it cycles through periods of growth and dormancy. Growth leads to the accumulation of carbon in leaves and stalks, woody parts, roots, and in soils. Decay of dead matter, primarily on the ground and in soils, returns carbon to the atmosphere. This cycling can be seen in the atmospheric CO2 observations on the Atmosphere tab. </p>
 
 <p>
-Because land plants are sensitive to short-term changes in climate that make for variable quality of growing seasons, and is also vulnerable to extreme events such as fire, drought and flooding, there is substantial year-to-year variability in the magnitude of the carbon uptake by the terrestrial biosphere. This can be seen in the historical record shown in bright green in the <a href="{{ site.url }}/applet/"> applet</a>. </p>
+Land plants are sensitive to short-term changes in climate that make for variable quality of growing seasons, and are vulnerable to extreme events such as fire, drought and flooding. These effects make for substantial year-to-year variability in the magnitude of the carbon uptake by the terrestrial biosphere. This can be seen in the historical record shown in bright green in the <a href="{{ site.url }}/applet/"> applet</a>. </p>
 
 <h3> Why is the Land Biosphere Absorbing Atmospheric CO2? </h3>
 
