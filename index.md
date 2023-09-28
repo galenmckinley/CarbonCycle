@@ -93,10 +93,11 @@ This website addresses the emissions, cycling, and critical sinks for CO2 in the
 </p>
 
 <p>
-
 As explained below, CO2 is accumulating in the atmosphere because of human activities, primarily the burning of fossil fuels and the clearing of forests  for cultivation. You will also learn about how natural processes on land and in the ocean are significantly modulating the rate of CO2 growth in the atmosphere.
-
 </p>
+
+<h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
+
 
 <a name="FossilFuels"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.fossilfuels }})">
