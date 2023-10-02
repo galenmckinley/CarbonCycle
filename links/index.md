@@ -8,11 +8,11 @@ published: true
 
 ## Carbon Cycle Data
 
--[Global atmospheric CO2 data](https://gml.noaa.gov/ccgg/trends/) from NOAA GML
+- [Global atmospheric CO2 data](https://gml.noaa.gov/ccgg/trends/) from NOAA GML
 - [Global Carbon Budget Papers, Graphics and Data](http://www.globalcarbonproject.org/carbonbudget/) 
-- [Global Carbon Atlas](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas) (Explore carbon cycle data, with focus on emissions)
+- [Global Carbon Atlas](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas) (Explore global carbon budget data; focus on emissions)
 - [Ocean Carbon Data from NOAA](https://www.nodc.noaa.gov/ocads/)
-- [Animation of CO2 sources and sinks over a year](https://svs.gsfc.nasa.gov/5110) from NASA 
+- [Animation of CO2 sources and sinks across the globe over a year](https://svs.gsfc.nasa.gov/5110) from NASA 
 
 ## Carbon Cycle Learning Resources
 - [The global carbon cycle, from the Woods Hole Oceanographic Institution](http://www.whoi.edu/feature/carboncycle/)
