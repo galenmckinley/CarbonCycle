@@ -159,7 +159,7 @@ If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm 
 
 <video style="text-align:center" width="800" height="600" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4"> </video> 
 
-<p style="font-size:75%;"> <i> Animation of the cumulative global carbon budget for 1850-2022. Data compiled by Friedlingstein et al. 2023. </i> </p>
+<p style="font-size:75%; text-align:center""> <i> Animation of the cumulative global carbon budget for 1850-2022. Data compiled by Friedlingstein et al. 2023. </i> </p>
 
 
 
