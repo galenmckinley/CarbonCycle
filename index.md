@@ -155,7 +155,7 @@ The ocean is also teeming with plant life that photosynthesizes in the presence 
 As humans increase the atmospheric CO2 concentration, more carbon is driven into the oceans (right panel of figure above). The basic physics in operation is <a href="https://en.wikipedia.org/wiki/Henry%27s_law"> Henry's Law</a>, here operating at the global scale. This excess load of carbon is almost all in the surface 1km and only slowly penetrates to depth (Gruber et al. 2019). This is because the ocean takes about 1000 years to fully mix. </p>
 
 <p>
-If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm higher than at present (equivalent to 179 PgC). Of all fossil fuel emissions to the atmosphere (483 PgC), the ocean has cumulatively mitigated 37% and the rest has remained in the atmosphere (Friedlingstein et al. 2022). Here is an animation of the changing balance of carbon sources and sinks since 1850. </p>
+If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm higher than at present (equivalent to 179 PgC). Of all fossil fuel emissions to the atmosphere (483 PgC), the ocean has cumulatively mitigated 37% and the rest has remained in the atmosphere (Friedlingstein et al. 2023). Here is an animation of the changing balance of carbon sources and sinks since 1850. </p>
 
 <center>
 <video width="720" height="540" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4"> </video> 
