@@ -41,7 +41,7 @@ This website addresses the emissions, cycling, and critical sinks for CO2 in the
 
 <p> From 2013-2022, humans added 10.9 Petagrams of carbon as CO2 (1 Petagram of carbon = 1 PgC = 10^15 grams of carbon) to the atmosphere each year, primarily by burning fossil fuels (~9.6 PgC/yr) and also from land use change (~1.3 PgC/yr). The ocean took up 26% of this carbon (~2.8 PgC/yr), and the land biosphere absorbed 30% (~3.3 PgC/yr), while 4% of emissions remain unaccounted for (Friedlingstein et al. 2023). Thus, over this recent decade, only ~48% of the carbon emitted by humans remained in the atmosphere to cause climate warming. Though uncertainties remain, it is clear that natural processes are significantly damping the rate of carbon accumulation in the atmosphere (Crisp et al. 2022). Future climate warming depends on both CO2 sources from human emissions and land use, as well as these enormous CO2 sinks in the ocean and the terrestrial biosphere. </p>
 
-<video style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4" style="width:750px;height:452px;" /> </video> 
+<video width="320" height="240" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4"> </video> 
 
 <p style="font-size:75%;"> <i> Animation for the cumulative global carbon budget for 1850-2022. Data compiled by Friedlingstein et al. 2023. </i> </p>
 
