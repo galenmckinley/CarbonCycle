@@ -157,9 +157,9 @@ As humans increase the atmospheric CO2 concentration, more carbon is driven into
 <p>
 If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm higher than at present (equivalent to 179 PgC). Of all fossil fuel emissions to the atmosphere (483 PgC), the ocean has cumulatively mitigated 37% and the rest has remained in the atmosphere (Friedlingstein et al. 2022). Here is an animation of the changing balance of carbon sources and sinks since 1850. </p>
 
-<video width="640" height="480" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4"> </video> 
+<video style="text-align:center" width="800" height="600" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4"> </video> 
 
-<p style="font-size:75%;"> <i> Animation for the cumulative global carbon budget for 1850-2022. Data compiled by Friedlingstein et al. 2023. </i> </p>
+<p style="font-size:75%;"> <i> Animation of the cumulative global carbon budget for 1850-2022. Data compiled by Friedlingstein et al. 2023. </i> </p>
 
 
 
