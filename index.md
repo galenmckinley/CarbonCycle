@@ -41,10 +41,6 @@ This website addresses the emissions, cycling, and critical sinks for CO2 in the
 
 <p> From 2013-2022, humans added 10.9 Petagrams of carbon as CO2 (1 Petagram of carbon = 1 PgC = 10^15 grams of carbon) to the atmosphere each year, primarily by burning fossil fuels (~9.6 PgC/yr) and also from land use change (~1.3 PgC/yr). The ocean took up 26% of this carbon (~2.8 PgC/yr), and the land biosphere absorbed 30% (~3.3 PgC/yr), while 4% of emissions remain unaccounted for (Friedlingstein et al. 2023). Thus, over this recent decade, only ~48% of the carbon emitted by humans remained in the atmosphere to cause climate warming. Though uncertainties remain, it is clear that natural processes are significantly damping the rate of carbon accumulation in the atmosphere (Crisp et al. 2022). Future climate warming depends on both CO2 sources from human emissions and land use, as well as these enormous CO2 sinks in the ocean and the terrestrial biosphere. </p>
 
-<video width="320" height="240" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4"> </video> 
-
-<p style="font-size:75%;"> <i> Animation for the cumulative global carbon budget for 1850-2022. Data compiled by Friedlingstein et al. 2023. </i> </p>
-
 
 <a name="CarbonCycle"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.forest }})">
@@ -159,7 +155,13 @@ The ocean is also teeming with plant life that photosynthesizes in the presence 
 As humans increase the atmospheric CO2 concentration, more carbon is driven into the oceans (right panel of figure above). The basic physics in operation is <a href="https://en.wikipedia.org/wiki/Henry%27s_law"> Henry's Law</a>, here operating at the global scale. This excess load of carbon is almost all in the surface 1km and only slowly penetrates to depth (Gruber et al. 2019). This is because the ocean takes about 1000 years to fully mix. </p>
 
 <p>
-If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm higher than at present (equivalent to 179 PgC). Of all fossil fuel emissions to the atmosphere (483 PgC), the ocean has cumulatively mitigated 37% and the rest has remained in the atmosphere (Friedlingstein et al. 2022). See the top of the page for an animation of the changing balance of carbon sources and sinks since 1850. </p>
+If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm higher than at present (equivalent to 179 PgC). Of all fossil fuel emissions to the atmosphere (483 PgC), the ocean has cumulatively mitigated 37% and the rest has remained in the atmosphere (Friedlingstein et al. 2022). Here is an animation of the changing balance of carbon sources and sinks since 1850. </p>
+
+<video width="640" height="480" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4"> </video> 
+
+<p style="font-size:75%;"> <i> Animation for the cumulative global carbon budget for 1850-2022. Data compiled by Friedlingstein et al. 2023. </i> </p>
+
+
 
 <h3> The Future of Ocean Carbon Uptake </h3>
 
