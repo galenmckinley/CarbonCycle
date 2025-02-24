@@ -39,7 +39,7 @@ This website addresses the emissions, cycling, and critical sinks for CO2 in the
 
 <h3> Humans add CO2 to the Atmosphere, Nature removes about half of it. </h3>
 
-<p> From 2013-2022, humans added 10.9 Petagrams of carbon as CO2 (1 Petagram of carbon = 1 PgC = 10^15 grams of carbon) to the atmosphere each year, primarily by burning fossil fuels (~9.6 PgC/yr) and also from land use change (~1.3 PgC/yr). The ocean took up 26% of this carbon (~2.8 PgC/yr), and the land biosphere absorbed 30% (~3.3 PgC/yr), while 4% of emissions remain unaccounted for (Friedlingstein et al. 2023). Thus, over this recent decade, only ~48% of the carbon emitted by humans remained in the atmosphere to cause climate warming. Though uncertainties remain, it is clear that natural processes are significantly damping the rate of carbon accumulation in the atmosphere (Crisp et al. 2022). Future climate warming depends on both CO2 sources from human emissions and land use, as well as these enormous CO2 sinks in the ocean and the terrestrial biosphere. </p>
+<p> From 2014-2023, humans added 10.8 billion tons of carbon as CO2 to the atmosphere each year (1 Gigaton = 1 GtC = 1 Petagram of carbon = 1 PgC = 10^15 grams of carbon). This was primarily due to burning fossil fuels (~9.7 PgC/yr) and also from land use change (~1.1 PgC/yr). The ocean took up 27% of this carbon (~2.9 PgC/yr), and the land biosphere absorbed 30% (~3.2 PgC/yr), while 5% of emissions remain unaccounted for (Friedlingstein et al. 2024). Thus, over this recent decade, only ~48% of the carbon emitted by humans remained in the atmosphere to cause climate warming. Though uncertainties remain, it is clear that natural processes are significantly damping the rate of carbon accumulation in the atmosphere (Crisp et al. 2022). Future climate warming depends on both CO2 sources from human emissions and land use, as well as these enormous CO2 sinks in the ocean and the terrestrial biosphere. </p>
 
 
 <a name="CarbonCycle"> </a>
@@ -62,14 +62,14 @@ This website addresses the emissions, cycling, and critical sinks for CO2 in the
 
 <h3> The Global Carbon Cycle </h3>
 
-<p> The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the 2023 Global Carbon Budget (Friedlingstein et al. 2023) report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC) and the major fluxes in GtC/yr for 2013-2022. </p>
+<p> The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the 2024 Global Carbon Budget (Friedlingstein et al. 2024) report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC and the major fluxes in GtC/yr for 2014-2023. </p>
 
-<p> These flux estimates are updated annually by the <a href = "https://globalcarbonbudget.org"> Global Carbon Project </a> (Friedlingstein et al. 2023) and the state of carbon cycle science is also reviewed in each IPCC report (Canadell, Monteiro et. al 2021). </p>
+<p> These flux estimates are updated annually by the <a href = "https://globalcarbonbudget.org"> Global Carbon Project </a> (Friedlingstein et al. 2024) and the state of carbon cycle science is also reviewed in each IPCC report (Canadell, Monteiro et. al 2021). </p>
 
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2023.png" style="width:750px;height:452px;" /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/Fig2_GCB2024.pdf" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:75%;"> <i> Schematic representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities averaged globally for the decade 2013–2022. The anthropogenic perturbation occurs on top of an active carbon cycle, with ﬂuxes and stocks represented in the background and taken from Canadell et al. (2021). Figure 2 of Friedlingstein et al. 2023. </i> </p>
+<p style="font-size:75%;"> <i> Schematic representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities averaged globally for the decade 2014–2022. The anthropogenic perturbation occurs on top of an active carbon cycle, with ﬂuxes and stocks represented in the background and taken from Canadell et al. (2021). Figure 2 of Friedlingstein et al. 2024. </i> </p>
 
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
@@ -87,7 +87,7 @@ This website addresses the emissions, cycling, and critical sinks for CO2 in the
 
 </p>
  
-<div style="text-align:center"> <img src = "{{site.baseurl}}/images/co2_data_mlo_5sept2023_NOAAESRL.pdf" /> </div> 
+<div style="text-align:center"> <img src = "{{site.baseurl}}/images/co2_data_mlo_24Feb2025_NOAAESRL.pdf" /> </div> 
 
 <p>
 	These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from the <a href="https://www.esrl.noaa.gov/gmd/ccgg/trends/"> National Atmospheric and Oceanic Administration Global Monitoring Lab</a> (NOAA GML). NOAA has also produced this <a href="https://www.youtube.com/watch?v=I7jKxO4nKZc"> great visualization </a> of current observations across latitudes and puts them in context with historical CO2 records that stretch back to the ice ages. 
@@ -112,7 +112,7 @@ As explained below, CO2 is accumulating in the atmosphere because of human activ
 <p> Burning fossil fuels puts carbon into the atmosphere. Other smaller sources include industrial processes such as cement manufacture and natural gas flaring. Fossil fuels provide most of the energy that supports human transportation, electricity production, heating and cooling of buildings, and industrial activity. Oil used to be the dominant fossil fuel, but since the early 2000s, coal has become dominant and the share from natural gas is also steadily growing. </p>
 
 <p>
-In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon per year (PgC/yr), while in 2013-2022, 9.6 PgC/yr. Over 2000-2009, emissions increased by 2.8% per year, substantially faster than the growth rate of 1.0% per year in the 1990’s. This dramatic increase was primarily due to growing emissions from developing countries. From 2013-2022, the rate of emissions growth was 0.5% per year. This reduced growth rate is a positive sign with respect to climate, but still carbon emissions are growing every year. Meeting international goals of limiting climate warming to less that 2 degrees C will require us to rapidly reverse this long-standing pattern of ever-increasing emissions. To safeguard the climate, emissions must be reduced - not increased - each and every year.  </p>
+In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon per year (PgC/yr), while in 2014-2023, 9.7 PgC/yr. Over 2000-2009, emissions increased by 2.8% per year, substantially faster than the growth rate of 1.0% per year in the 1990’s. This dramatic increase was primarily due to growing emissions from developing countries. From 2014-2023, the rate of emissions growth was 0.6% per year. This reduced growth rate is a positive sign with respect to climate, but still carbon emissions are growing every year. Meeting international goals of limiting climate warming to less that 2 degrees C will require us to rapidly reverse this long-standing pattern of ever-increasing emissions. To safeguard the climate, emissions must be reduced - not increased - each and every year.  </p>
 
 <p>
 Since 2000, emissions have grown rapidly in developing countries, particularly China. This has been due in some part to increasing energy use and consumption domestically, but also has a significant component due to the production of goods that have been exported to developed countries for consumption. Emissions from all countries, as well as these production / consumption flows, are estimated annually by the <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project </a>.
@@ -155,13 +155,13 @@ The ocean is also teeming with plant life that photosynthesizes in the presence 
 As humans increase the atmospheric CO2 concentration, more carbon is driven into the oceans (right panel of figure above). The basic physics in operation is <a href="https://en.wikipedia.org/wiki/Henry%27s_law"> Henry's Law</a>, here operating at the global scale. This excess load of carbon is almost all in the surface 1km and only slowly penetrates to depth (Gruber et al. 2019). This is because the ocean takes about 1000 years to fully mix. </p>
 
 <p>
-If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm higher than at present (equivalent to 179 PgC). Of all fossil fuel emissions to the atmosphere (483 PgC), the ocean has cumulatively mitigated 37% and the rest has remained in the atmosphere (Friedlingstein et al. 2023). Here is an animation of the changing balance of carbon sources and sinks since 1850. </p>
+If not for the ocean, the atmospheric concentration of CO2 would be about 90ppm higher than at present (equivalent to 185 PgC). Of all fossil fuel emissions to the atmosphere (490 PgC) since 1850, the ocean has cumulatively mitigated 38% and the rest has remained in the atmosphere (Friedlingstein et al. 2024). Here is an animation of the changing balance of carbon sources and sinks since 1850. </p>
 
 <center>
-<video width="720" height="540" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4"> </video> 
+<video width="720" height="540" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2024.mp4" type="video/mp4"> </video> 
 </center>
 
-<p style="font-size:75%; text-align:center"> <i> Animation of the cumulative global budget for anthropogenic carbon, 1850-2022  (Friedlingstein et al. 2023). Animation made by Marit Jentoft-Nilsen, NASA.</i> </p>
+<p style="font-size:75%; text-align:center"> <i> Animation of the cumulative global budget for anthropogenic carbon, 1850-2023  (data compiled by Friedlingstein et al. 2024). Animation made by Marit Jentoft-Nilsen, NASA.</i> </p>
 
 
 <h3> The Future of Ocean Carbon Uptake </h3>
@@ -197,7 +197,7 @@ To learn more about ocean acidification, check out resources from <a href="https
 
 <p> New agricultural land is typically created by cutting down forests. When trees are cut down and burned or left to decompose, carbon goes into the atmosphere. In the present day, deforestation and the resulting net carbon source to the atmosphere is primarily occurring in the tropics. However, in the last 200 years, forest clearing for agriculture in the middle latitudes of the Northern Hemisphere was also a substantial source of carbon to the atmosphere. Since the mid-1900’s, much of the less-productive agricultural land in the US and Europe has been allowed to regrow as forests – making for uptake of carbon from the atmosphere through carbon accumulation in woody biomass and soils. Uncertainty in estimates of the land use source are large in part because estimates of deforestation and other land use changes are, themselves, quite uncertain. In addition, the amount of carbon stored in the forests is not well-quantified. (Crisp et al. 2022)</p>
 
-<p> Agriculture, Forestry and other Land Use (AFOLU) led to 13% of CO2 emissions over 2007-2016 (IPCC 2022), and 12% for 2013-2022 (Friedlingstein et al. 2023). AFOLU is also a major source for non-CO2 greenhouse gases (CH4, N20). 
+<p> Agriculture, Forestry and other Land Use (AFOLU) led to 13% of CO2 emissions over 2007-2016 (IPCC 2022), and 10% for 2014-2023 (Friedlingstein et al. 2024). AFOLU is also a major source for non-CO2 greenhouse gases (CH4, N20). 
 </p>
 
 <h3> The Future of Land Use </h3>
