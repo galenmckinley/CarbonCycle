@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: productivity.jpg
+  feature: akegeraclouds23.jpg
   forest: mangrove.jpg
   atmosphere: atmos_sm.jpg
   fossilfuels: coalmine.jpg
