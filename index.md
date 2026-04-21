@@ -2,9 +2,9 @@
 layout: home
 permalink: /
 image:
-  feature: akegeraclouds23.jpg
+  feature: forestlights.jpg
   forest: mangrove.jpg
-  atmosphere: akegeraclouds23.jpg
+  atmosphere: akegeraclouds23ATMonly.jpg
   fossilfuels: coalmine.jpg
   ocean: productivity.jpg
   land: landUse.jpg
