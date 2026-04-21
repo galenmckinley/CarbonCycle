@@ -76,7 +76,7 @@ This website addresses the emissions, cycling, and critical sinks for CO2 in the
 
 
 <a name="Atmosphere"> </a>
-<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.atmosphere }})">
+<div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.fossilfuels }})">
       <div class="wrap page-lead-content">
         <h1> Atmosphere </h1>
       </div><!-- /.page-lead-content -->
