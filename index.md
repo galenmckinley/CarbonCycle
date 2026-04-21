@@ -4,9 +4,9 @@ permalink: /
 image:
   feature: productivity.jpg
   forest: mangrove.jpg
-  atmosphere: atmos.jpg
+  atmosphere: atmos_sm.jpg
   fossilfuels: coalmine.jpg
-  ocean: perpetual.jpg
+  ocean: productivity.jpg
   land: landUse.jpg
   land2: oldGrowth.jpg
 published: true
