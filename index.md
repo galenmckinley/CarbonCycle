@@ -4,7 +4,7 @@ permalink: /
 image:
   feature: akegeraclouds23.jpg
   forest: mangrove.jpg
-  atmosphere: atmos_sm.jpg
+  atmosphere: akegeraclouds23.jpg
   fossilfuels: coalmine.jpg
   ocean: productivity.jpg
   land: landUse.jpg
