@@ -67,7 +67,7 @@ This website addresses the emissions, cycling, and critical sinks for CO2 in the
 <p> These flux estimates are updated annually by the <a href = "https://globalcarbonbudget.org"> Global Carbon Project </a> (Friedlingstein et al. 2024) and the state of carbon cycle science is also reviewed in each IPCC report (Canadell, Monteiro et. al 2021). </p>
 
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/Fig2_GCB2025.png" style="width:750px;height:600px;" /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2025.png" style="width:750px;height:600px;" /> </div> 
 
 <p style="font-size:75%;"> <i> Schematic representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities averaged globally for the decade 2015–2025. The anthropogenic perturbation occurs on top of an active carbon cycle, with ﬂuxes and stocks represented in the background and taken from Canadell et al. (2021). Figure 2 of Friedlingstein et al. 2025. </i> </p>
 
