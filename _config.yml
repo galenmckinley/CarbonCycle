@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "Carbon and Climate"
-description: "Basic information on the major components of the carbon cycle"
+description: "Overview of the global carbon cycle"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
